@@ -1,1 +1,3 @@
 This dashboard is created as part of the Forage's JP Morgan Chase & Co. Global Final and Business Management. The dataset consist of budget and time required for completing the projects with resources and respective tasks. The dataset is subjected to cleaning and exploration using Microsoft Power BI desktop. Page level filters, visual level filters, hierarchy and slicers were used to make the dashboard more appealing and interactive.
+
+Link to Live Dashboard - https://app.powerbi.com/view?r=eyJrIjoiMzM2Mzg3MTgtNDkyMS00ZmZmLWFkY2ItZTBlZDExYzAwZTMxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
